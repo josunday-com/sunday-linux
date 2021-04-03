@@ -30,4 +30,4 @@
 
 ## Tests
   
-  1. Ubuntu 18.04.5 LTS
+  1. Ubuntu 18.04.5 LTS - amd64
